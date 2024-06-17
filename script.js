@@ -19,3 +19,4 @@ var jcontent = {
   /*
    [{"COUNTY": "Albany ", "STATUS": "Active", "DEM": 98146, "REP": 34869, "CON": 3436, "WOR": 892, "OTH": 8393, "BLANK": 48655, "TOTAL": 194391}, {"COUNTY": "Albany ", "STATUS": "Inactive", "DEM": 8816, "REP": 3007, "CON": 267, "WOR": 94, "OTH": 1025, "BLANK": 4809, "TOTAL": 18018}, {"COUNTY": "Albany ", "STATUS": "Total", "DEM": 106962, "REP": 37876, "CON": 3703, "WOR": 986, "OTH": 9418, "BLANK": 53464, "TOTAL": 212409}]
   */
+ 
